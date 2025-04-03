@@ -178,6 +178,31 @@ a {
     }
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.logo-icon {
+    width: 2rem;
+    height: 2rem;
+    background-color: var(--primary);
+    border-radius: 8px;
+    transition: var(--transition);
+}
+
+.logo:hover .logo-icon {
+    transform: rotate(12deg);
+}
+
+.logo h1,
+.logo h2 {
+    font-weight: 600;
+    margin-bottom: 0;
+    font-size: 1.25rem;
+}
+
 .container1 {
     margin: 120px auto;
     width: 1200px;
