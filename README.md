@@ -1,5 +1,5 @@
-this project is not allow to be use or to be edit because this project included some code and idea from other developer, we only own the source code of some minigame of this project.
-if you want to use or to edit the code from this project you must prove you're a member of 12b9 class because we only allow this code be use and be edit internal
+thís project include code from https://github.com/thomaspark and https://github.com/flukeout so please check out their project if you have time, i'm ready to delete this repository if it copyright infringement
+if you have any problem please contact me through this email: nguyentuananh227007@gmail.com
 
                             _oo0oo_
                             o8888888o
@@ -21,5 +21,5 @@ if you want to use or to edit the code from this project you must prove you're a
                             `=---='
 
      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                     phật phù hộ đc 10 điểm tin
+                     phật phù hộ 10 điểm tin
      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
