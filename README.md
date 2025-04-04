@@ -1,4 +1,4 @@
-thís project include code from https://github.com/thomaspark and https://github.com/flukeout so please check out their project if you have time, i'm ready to delete this repository if it copyright infringement
+thís project include code from https://github.com/thomaspark and https://github.com/flukeout so please check out their project if you have time, i'm ready to delete this repository if it copyright infringement,
 if you have any problem please contact me through this email: nguyentuananh227007@gmail.com
 
                             _oo0oo_
